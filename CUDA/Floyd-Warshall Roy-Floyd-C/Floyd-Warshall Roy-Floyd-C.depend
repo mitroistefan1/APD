@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1493757373 source:c:\users\stefan\documents\apd\cuda\floyd-warshall roy-floyd c\floyd-warshall roy-floyd-c\main.cpp
-	<iostream>
-	<fstream>
-	<stdlib.h>
-	<time.h>
-
