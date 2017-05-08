@@ -8,3 +8,9 @@ MatrixMultiplication/MatrixMultipicationThreads/.classpath
 MatrixMultiplication/MatrixMultipicationThreads/.project
 MatrixMultiplication/MatrixMultipicationThreads/.settings/org.eclipse.jdt.core.prefs
 MatrixMultiplication/RemoteSystemsTempFiles/.project
+/.project
+/Floyd-Warshall Roy-Floyd-C.cbp
+/Floyd-Warshall Roy-Floyd-C.depend
+/Floyd-Warshall Roy-Floyd-C.layout
+/Floyd-Warshall Roy-Floyd-C.exe
+/main.o
