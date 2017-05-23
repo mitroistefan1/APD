@@ -31,12 +31,7 @@ public class WordCount {
         String aux = itr1.nextToken();
         if(itr1.hasMoreTokens()){
           aux+=itr1.nextToken();
-		      System.out.println("1 "+aux);
-          word.set(aux);
-          context.write(word, one);
-        }
-        else{
-          System.out.println("2 "+aux);
+          System.out.println("1 "+aux);
           word.set(aux);
           context.write(word, one);
         }
@@ -44,11 +39,7 @@ public class WordCount {
           String aux2 = itr2.nextToken();
           if(itr2.hasMoreTokens()){
             aux2+=itr2.nextToken();
-            System.out.println("3 "+aux2);
-            word.set(aux2);
-            context.write(word, one);
-          }else{
-            System.out.println("4 "+aux2);
+            System.out.println("2 "+aux2);
             word.set(aux2);
             context.write(word, one);
           }
